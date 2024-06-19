@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_SAPECC_MLS_ORDER05 xmlns:ns0="urn:Vincommerce:MLS:RE:SAPECC:ORDERS05:To:MLS:ORDERS05">
+    <Header>
+        <POID>4135000751</POID>
+        <RECIPNT_NO>2003515</RECIPNT_NO>
+        <CURCY>VND</CURCY>
+        <DocumentType>NB</DocumentType>
+        <SAPIDocNumber>576548510</SAPIDocNumber>
+        <PurchaserName>System User</PurchaserName>
+        <PurchaserEmail></PurchaserEmail>
+        <PurchaseOrderDate>20220106</PurchaseOrderDate>
+        <ORGID>1401</ORGID>
+        <POValue>9123840</POValue>
+    </Header>
+    <Items>
+        <POSEX>00010</POSEX>
+        <ProductItemId>10008982</ProductItemId>
+        <ProductName>TÀI KÝ Bột nếp Tài Ký gói 400g</ProductName>
+        <CategoryId>102060101</CategoryId>
+        <UnitType>G1</UnitType>
+        <Quantity>576.000</Quantity>
+        <Weight>236.16</Weight>
+        <Site>1267</Site>
+        <Sloc>2000</Sloc>
+        <WeightUnit>236.16</WeightUnit>
+        <UnitPrice>15840</UnitPrice>
+        <Per>1</Per>
+        <NETWR>9123840</NETWR>
+        <Deliverydate>20220115</Deliverydate>
+        <Deliverycompleted>X</Deliverycompleted>
+    </Items>
+</ns0:MT_SAPECC_MLS_ORDER05>

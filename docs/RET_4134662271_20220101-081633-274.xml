@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_WMS_PO2GR_FileOutbound xmlns:ns0="urn:Vincommerce:WMS:RE:SAPECC:WMS:PO2GR:INvsOUT">
+    <LineItem>
+        <PostingDate>20220101</PostingDate>
+        <PurchasingDocument>4134662271</PurchasingDocument>
+        <Item>00010</Item>
+        <Status>ERR</Status>
+        <Message>The &quot;Delivery completed&quot; indicator is set</Message>
+        <ArticleItem>0000</ArticleItem>
+    </LineItem>
+</ns0:MT_WMS_PO2GR_FileOutbound>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:MT_WMS_REVERSE_GIDO_FileInOutbound xmlns:ns0="urn:Vincommerce:WMS:RE:SAPECC:WMS:REVERSE_GIDO:INvsOUT">
+    <PostingDate>20220324</PostingDate>
+    <DeliveryDocument>7030925604</DeliveryDocument>
+    <Status>OK</Status>
+    <Message>Successful reverse. DO will be deleted.</Message>
+    <ArticleDocument>4512418410</ArticleDocument>
+</ns0:MT_WMS_REVERSE_GIDO_FileInOutbound>

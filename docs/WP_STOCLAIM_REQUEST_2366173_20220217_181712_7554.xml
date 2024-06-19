@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WP_STOCLAIM_REQUEST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:Vincommerce:WP:RE:To:ETON">
+    <Header xmlns="">
+        <ClaimId>2366173</ClaimId>
+        <ClaimStatusId>241</ClaimStatusId>
+        <DOID>7033065489</DOID>
+        <SourceId>5844</SourceId>
+        <SourceName>WM+ TBH 138 Hùng Thắng</SourceName>
+        <DestinationId>1275</DestinationId>
+        <DestinationName>WMTKM_Kho Eton Thường Tín</DestinationName>
+        <ClaimDate>20211221 00:00:00</ClaimDate>
+        <SendDate>20220217 18:17:12</SendDate>
+        <UpdatedDate>20211221 17:44:05</UpdatedDate>
+        <UpdatedByName/>
+        <ClaimType>Hàng VCM</ClaimType>
+        <Comment/>
+        <NoteType>Lý do khác</NoteType>
+        <NoteDetail>cht
+        Vm123456789
+        thời gian kiểm 15h49 - 15H53
+        camera số 7
+        http://10.228.228.234:8888/doc/page/preview.asp
+        SẢN PHẨM THỪA 8859556700320, MIWADA CÁ THU THÁI LAN: 7 HỘP</NoteDetail>
+        <GoodIssueImage>0/2021/12/21/1640083681974_3090979.jpg;0/2021/12/21/1640084077689_1221503.jpg;0/2021/12/21/1640083683008_9406282.jpg</GoodIssueImage>
+        <IncidentRecordImage>0/2021/12/21/1640083667643_9968439.jpg</IncidentRecordImage>
+        <AdditionalImage/>
+    </Header>
+    <Items xmlns="">
+        <TodBarcode>000070</TodBarcode>
+        <ProductItemId>10012825</ProductItemId>
+        <ProductName>G7 Café hòa tan đen đá 2in1 hộp 240g</ProductName>
+        <UnitType>HOP</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000020</TodBarcode>
+        <ProductItemId>10013013</ProductItemId>
+        <ProductName>TRUNG NGUYÊN Café xay Sáng Tạo 3 gói340g</ProductName>
+        <UnitType>G1</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000030</TodBarcode>
+        <ProductItemId>10012822</ProductItemId>
+        <ProductName>G7 Café hòa tan 3in1 hộp 336g</ProductName>
+        <UnitType>HOP</UnitType>
+        <TotalQuantity>24</TotalQuantity>
+        <MissingQuantity>24</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note>Không có hàng, nhầm sang mã khác. Chi tiết CH ghi ở dưới kèm hình ảnh</Note>
+        <ClaimImage>0/2021/12/21/1640083630552_5215102.jpg,0/2021/12/21/1640083631959_3834050.jpg,0/2021/12/21/1640083632248_4265703.jpg,0/2021/12/21/1640083632997_9698963.jpg,</ClaimImage>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000080</TodBarcode>
+        <ProductItemId>10012935</ProductItemId>
+        <ProductName>ĐẠI GIA Trà xanh Thái Nguyên gói 200g</ProductName>
+        <UnitType>G1</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000050</TodBarcode>
+        <ProductItemId>10012827</ProductItemId>
+        <ProductName>G7 Café Cappuccino Hazenut hộp 216g</ProductName>
+        <UnitType>HOP</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000090</TodBarcode>
+        <ProductItemId>10008632</ProductItemId>
+        <ProductName>VILITAS Đường tinh luyện gói 1kg T25</ProductName>
+        <UnitType>G1</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000010</TodBarcode>
+        <ProductItemId>10008621</ProductItemId>
+        <ProductName>HẢI CHÂU Bột canh i-ốt gói 190g T50</ProductName>
+        <UnitType>G1</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000040</TodBarcode>
+        <ProductItemId>10012821</ProductItemId>
+        <ProductName>G7 Café hòa tan 3in1 hộp 288g</ProductName>
+        <UnitType>HOP</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000100</TodBarcode>
+        <ProductItemId>10141627</ProductItemId>
+        <ProductName>MIWADA Cá  thu thái lan  sốt cà chua 155</ProductName>
+        <UnitType>HOP</UnitType>
+        <TotalQuantity>3</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>3</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note>Móp méo 3 hộp</Note>
+        <ClaimImage>0/2021/12/21/1640084053444_1583166.jpg,0/2021/12/21/16400840526_7865765.jpg,0/2021/12/21/1640084054638_8137350.jpg,</ClaimImage>
+        <DATE_MFR/>
+    </Items>
+    <Items xmlns="">
+        <TodBarcode>000060</TodBarcode>
+        <ProductItemId>10009265</ProductItemId>
+        <ProductName>ÔNG KỲ Nước mắm Phú Quốc 38N 525ml T6</ProductName>
+        <UnitType>CHA</UnitType>
+        <TotalQuantity>0</TotalQuantity>
+        <MissingQuantity>0</MissingQuantity>
+        <QuanlityQuantity>0</QuanlityQuantity>
+        <OverQuantity>0</OverQuantity>
+        <Note/>
+        <ClaimImage/>
+        <DATE_MFR/>
+    </Items>
+</WP_STOCLAIM_REQUEST>

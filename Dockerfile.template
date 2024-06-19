@@ -1,0 +1,9 @@
+FROM python:3.8-alpine
+
+ENV MAKEFLAGS="-j$(nproc)"
+ADD requirements.txt /tmp/requirements.txt
+
+RUN apk --update --upgrade add gcc musl-dev jpeg-dev zlib-dev libffi-dev cairo-dev pango-dev gdk-pixbuf-dev openssh python3-dev g++
+
+RUN pip install --upgrade pip \
+    && pip3 install -r /tmp/requirements.txt
